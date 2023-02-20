@@ -97,7 +97,7 @@ point → 거리에 맞게 폴리곤(버퍼)으로 생성
 ![plot](./image/6.png)
 ![plot](./image/7.jpg)
 ![plot](./image/8.jpg)
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~wodud2970/1.embed" height="525" width="100%"></iframe>
 
 시각화를 통해 제가 원하는 주거형태의 위치, 월비용, 전용면적을 쉽게 찾을 수 있었습니다.
 
